@@ -1,0 +1,4 @@
+com\example\demo\repo\UserRepo.class
+com\example\demo\entity\User.class
+com\example\demo\controller\UserController.class
+com\example\demo\Demo2Application.class
